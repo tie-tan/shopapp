@@ -1,7 +1,7 @@
-**SHOP APP**
-An online shop for food, groceries, and medicine. The user can order, add to the cart and checkout.
+## SHOP APP
+ An online shop for food, groceries, and medicine. The user can order, add to the cart and checkout.
 
-##Features
+## Features
  - Add to cart
  - Profile page
  - Signup page
