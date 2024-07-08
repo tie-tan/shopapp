@@ -3,8 +3,8 @@
 An online shop for food, groceries, and medicine. The user can order, add to the cart and checkout.
 <table>
   <tr>
-    <td>![WhatsApp Image 2024-07-08 at 7 40 15 PM](https://github.com/tie-tan/shopapp/assets/78724211/81198734-d913-4b88-ad76-1106a04416c8)</td>
-    <td>![WhatsApp Image 2024-07-08 at 7 40 16 PM](https://github.com/tie-tan/shopapp/assets/78724211/d3b7bc52-134f-42bd-b534-6f13839ae081)</td>
+    <td><img src = "![WhatsApp Image 2024-07-08 at 7 40 15 PM](https://github.com/tie-tan/shopapp/assets/78724211/81198734-d913-4b88-ad76-1106a04416c8)"></td>
+    <td><img src = "![WhatsApp Image 2024-07-08 at 7 40 16 PM](https://github.com/tie-tan/shopapp/assets/78724211/d3b7bc52-134f-42bd-b534-6f13839ae081)"></td>
   </tr>
 </table>
 
